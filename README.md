@@ -43,9 +43,4 @@ search.
 
 ---
 
-### Constructors and Prototypes (feel free to use either ES5 or ES6)
-
-**Note** When creating constructors and prototypes, you may use ES6 classes or just create the constructor function
-separately. Your choice.
-
 ![](https://media.giphy.com/media/HZpCCbcWc0a3u/giphy.gif)
